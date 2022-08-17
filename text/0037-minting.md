@@ -31,7 +31,7 @@ To achieve the set of functionality required to support backed assets on the Mob
 
 ## Multiparty Minting Transaction (`MintTx`)
 
-For the Stablecoin minting procedures, each minting operation must coincide with an amount of the backing asset being ``locked", for example, into a multiparty signature (multisig) contract on another blockchain.
+For the minting procedures, each minting operation must coincide with an amount of the backing asset being ``locked", for example, into a multiparty signature (multisig) contract on another blockchain.
 
 *Definition: Multisig Contract.* A smart contract requiring a minimum number of parties to approve a transaction before committing it. The threshold is often referred to as _M-of-N_.
 
